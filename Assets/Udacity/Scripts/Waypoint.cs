@@ -48,7 +48,7 @@ public class Waypoint : MonoBehaviour
 	public AudioClip clip_click					= null;				
 
 	[Header("Hide Distance")]
-	public float threshold						= 0.125f;
+	public float threshold						= 0.5f;
 
 
 
